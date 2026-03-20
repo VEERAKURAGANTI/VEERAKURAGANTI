@@ -120,7 +120,7 @@ My journey into backend development began the moment I built my first Spring Boo
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=VEERAKURAGANTI&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://veerakuraganti.github.io/portfolio/)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1F4E79&height=100&section=footer" />
 
