@@ -88,9 +88,11 @@ My journey into backend development began the moment I built my first Spring Boo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VEERAKURAGANTI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VEERAKURAGANTI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)  
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=VEERAKURAGANTI&theme=tokyonight&hide_border=true)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=VEERAKURAGANTI&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKURAGANTI&theme=tokyonight&hide_border=true&layout=compact)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKURAGANTI&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
 
