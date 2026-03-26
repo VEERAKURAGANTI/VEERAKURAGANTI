@@ -94,7 +94,6 @@ My journey into backend development began the moment I built my first Spring Boo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKURAGANTI&theme=tokyonight&hide_border=true&layout=compact)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKURAGANTI&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
 
 </div>
 
